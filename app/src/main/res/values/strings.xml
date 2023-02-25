@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Helper</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_text1">Первая</string>
+    <string name="logo_text2">помощь</string>
+    <string name="firstLogoinstruct">Человек без сознания</string>
+    <string name="secLogoinstruct">Человек не дышит</string>
+    <string name="thirdLogoinstruct">Что-то застряло в горле</string>
+    <string name="fourthLogoinstruct">Кровь</string>
+    <string name="fifthLogoinstruct">Травма</string>
+    <string name="sixthLogoinstruct">Ожог</string>
+    <string name="seventhLogoinstruct">Отморожение</string>
+    <string name="eightthLogoinstruct">Съел/выпил что-то не то</string>
+
+
+    <string name="course_desc">Обморок - потеря сознания,
+        но не более 2 минут!</string>
+    <string name="course_inst">1. Проверить наличие дыхания!
+2. Если человек дышит - обеспечить проходимость дыхательных путей:
+перевести в “стабильное боковое пложение”
+или удержать приподнятым подбородок</string>
+    <string name="coursetext">
+ЧЕЛОВЕК НЕ ПРИШЕЛ В СЕБЯ - вызвать СКОРУЮ!
+Человек вернулся в сознание - напоить крепким, сладким чаем</string>
+
+
+    <string name="course_desc2">НЕМЕДЛЕННО ПРИСТУПАЙТЕ К СЕРДЕЧНО-ЛЕГОЧНОЙ РЕАНИМАЦИИ</string>
+    <string name="course_inst2">1. Позвони в скорую
+    2. 30 нажатий на грудную клетку пострадавшего прямыми руками
+    3. 2 искуственных вдоха</string>
+    <string name="coursetext2">
+Реанимацию можно прекратить:
+    1. Если прибыла скорая помощь
+    2. Если появились явные признаки жизни
+    3. В случае усталости, необходимо подмениться
+        для продолжения реанимации</string>
+
+
+    <string name="course_desc3">ДЛЯ ОКАЗАНИЯ ПОМОЩИ У ВАС 3-5 МИНУТ!</string>
+    <string name="course_inst3">1.Ударьте несколько раз раскрытой ладонью в межлопаточную область.
+    2. В случае отсутствия эффекта встаньте за спиной у пострадавшего,
+    обхватите его руками, чтобы руки были сложены в замок и находились
+    у пострадавшего над подложечной областью</string>
+    <string name="coursetext3">
+    Если больной без сознания, переверните его на спину и резко надавите на подложечную область</string>
+
+
+
+
+
+
+</resources>
