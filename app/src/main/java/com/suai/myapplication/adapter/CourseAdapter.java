@@ -1,5 +1,6 @@
 package com.suai.myapplication.adapter;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
@@ -38,7 +39,7 @@ public class CourseAdapter extends RecyclerView.Adapter<CourseAdapter.CourseView
     }
 
     @Override
-    public void onBindViewHolder(@NonNull CourseViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull CourseViewHolder holder, @SuppressLint("RecyclerView") int position) {
         holder.courseBg.setBackgroundColor(Color.parseColor(courses.get(position).getColor()));
 
         int imageId = context.getResources().getIdentifier(courses.get(position).getImg(), "drawable", context.getPackageName());
